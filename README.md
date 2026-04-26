@@ -1,2 +1,2 @@
 # ip-viewer
-VIEW IP
+VIEW IP for your PC
